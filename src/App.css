@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;600;700&display=swap');
+* {
+    font-size: 15px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.logo  {
+    margin-right: 47rem;
+    margin-left: 3em;
+    margin-top: 10px;
+}
+.nav-link {
+    margin-right: 3%;
+    margin-left: 3%;
+} 
+#main {
+    width: 97%;
+    justify-content: center;
+}
+#Headlines {
+    
+    color: white;
+    background-color: hsl(240, 100%, 5%);    
+    padding-right: 0;
+    margin-left: 0;
+    width: 25%;
+    padding: 1rem;
+    margin-left: 1.8rem;
+    
+    justify-content: center;
+}
+hr {
+    width: 95%;
+    color: hsl(233, 8%, 79%);
+}
+.web {
+    font-size: 3rem;
+    font-weight: bolder;
+    align-content: left;
+    margin-left: 3.3rem;
+}
+.picture {
+    width: 8rem;
+    
+}
+button {
+    color: white;
+    background-color: hsl(5, 85%, 63%);
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-weight: 400;
+}
+h1 {
+    color: hsl(35, 77%, 62%);
+    font-weight: 400;
+}
+.title {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.numbers {
+    font-size: 2rem;
+    color: #D3D3D3;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    
+
+}
+.name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-top: 5px;
+}
+h2 {
+    font-size: 10rem;
+    font-weight: bold;
+}
+.text {
+    color:  hsl(233, 8%, 79%);
+    font-weight: 400;
+}
+.description {
+    color: grey;
+    font-weight: 400;
+}
+.buttonText {
+    font-size: 1rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+body { 
+    margin-right: 0;
+}
+button:hover {
+    color: white;
+    background-color: black;
+    transition: 0.3s all;
+}
+title:hover {
+    color: white;
+    background-color: black;
+    transition: 0.3s all;
+}
+.name:hover {
+    color: hsl(5, 85%, 63%);
+    transition: 0.3s all;
+}
+.title:hover {
+    color: hsl(35, 77%, 62%);
+    transition: 0.3s all;
+}
+.nav-link:hover {
+    color: hsl(5, 85%, 63%);
+}
+#LastColumn {
+    margin-left: 2rem;
+}
+body {
+    margin-left: 3rem;
+}
+.nav-link:hover {
+    color: hsl(5, 85%, 63%);
+    transition: 0.3s all;
+}
+.navbar-toggler-icon {
+    position: relative;
+    justify-content: end;
+}
